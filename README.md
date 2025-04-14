@@ -1,9 +1,9 @@
 # Git & GitHub Tutorial
 
-## Inhaltsverzeichnis - test 2
+## Inhaltsverzeichnis
 
 - [Git \& GitHub Tutorial](#git--github-tutorial)
-  - [Inhaltsverzeichnis - test 2](#inhaltsverzeichnis---test-2)
+  - [Inhaltsverzeichnis](#inhaltsverzeichnis)
     - [**Chaos im Projekt? Git \& GitHub sind die Lösung!**](#chaos-im-projekt-git--github-sind-die-lösung)
     - [**Was ist Git?**](#was-ist-git)
     - [**Was ist GitHub?**](#was-ist-github)
